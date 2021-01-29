@@ -64,7 +64,6 @@ def user_input_features():
     'duration': duration,
     'release_year': release_year,
     'us_popularity_estimate': us_popularity_estimate,
-    'acousticness': acousticness,
     'beat_strength': beat_strength,
     'danceability': danceability,
     'instrumentalness': instrumentalness,
