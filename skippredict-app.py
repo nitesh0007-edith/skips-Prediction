@@ -11,6 +11,7 @@ st.write("""
 
 This app predict whether the song will be skipped or not
 
+#### created by : Nitesh Ranjan Singh
 """)
 
 st.header('User input features')
