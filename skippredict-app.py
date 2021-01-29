@@ -72,7 +72,7 @@ def user_input_features():
     'loudness': loudness,
     'mechanism': mechanism,
     'mode': mode,
-    'organism': organism,
+    'organism': organism,}
     features = pd.DataFrame(data, index=[0])
     return features
 input_df = user_input_features()
